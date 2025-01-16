@@ -1,4 +1,4 @@
-package com.andannn.pdfreader.ui.theme
+package pdfreader.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

@@ -1,4 +1,4 @@
-package com.andannn.pdfreader.ui.theme
+package pdfreader.ui.theme
 
 import android.app.Activity
 import android.os.Build

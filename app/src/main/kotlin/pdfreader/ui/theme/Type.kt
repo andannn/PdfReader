@@ -1,4 +1,4 @@
-package com.andannn.pdfreader.ui.theme
+package pdfreader.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
